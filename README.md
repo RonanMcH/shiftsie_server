@@ -1,3 +1,3 @@
 # shiftsie_server
 
-A description of this package.
+This app allows people to view their shifts in organised way
