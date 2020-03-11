@@ -7,10 +7,11 @@ struct Floating: NSObject {
     var text = "Hello, Ronan!"
 }
 
-struct goodbye {
-    var text = "Goodbye, Graeme!"
-}
-
 struct HelloAgain {
     var text = "Hello again!"
+    var text = "Hello, Zendeskians!"
+}
+
+struct shiftsie_server_two {
+    var text = "Hello, Rebase!"
 }
