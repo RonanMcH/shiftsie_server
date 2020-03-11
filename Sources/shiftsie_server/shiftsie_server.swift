@@ -4,4 +4,13 @@ struct shiftsie_server {
 
 struct Floating: NSObject {
     let number: Int
+    var text = "Hello, Ronan!"
+}
+
+struct goodbye {
+    var text = "Goodbye, Graeme!"
+}
+
+struct HelloAgain {
+    var text = "Hello again!"
 }
